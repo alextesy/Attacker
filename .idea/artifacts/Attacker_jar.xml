@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Attacker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Attacker_jar</output-path>
+    <root id="archive" name="Attacker.jar">
+      <element id="module-output" name="Attacker" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/jnetpcap-1.3.0-1.win64/jnetpcap.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
